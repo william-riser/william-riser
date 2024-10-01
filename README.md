@@ -10,7 +10,7 @@
 - **Frameworks/Libraries:** React, Node, Express, Tailwind
 - **Databases:** MongoDB, SQLite
 
-  ## 📫 Let's Connect
+## 🤝 Let's Connect
 - Portfolio: [williamriser.com](https://williamriser.com/)
 - LinkedIn: [linkedin.com/in/william-riser](https://www.linkedin.com/in/william-riser/)
 

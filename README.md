@@ -2,7 +2,7 @@
 
 # About Me
 - CS @ Northeastern
-- 📍Boston & Oxford, MS
+- 📍Boston & MS
 
 ## 🛠️ Technologies & Tools
 

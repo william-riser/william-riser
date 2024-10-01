@@ -2,4 +2,4 @@
 <h3 align="center">A computer science student at Northeastern University</h3>
 </p>
 
-<p align="center"><img align="center" src="github-readme-stats-git-master-william-risers-projects.vercel.app/api?username=william-riser&show_icons=true&hide_bordre=true" alt="william-riser" /></p>
+<p align="center"><img align="center" src="github-readme-stats-git-master-william-risers-projects.vercel.app/api/top-langs/?username=william-riser&theme=react&hide_border=true&count_private=true&include_all_commits=true&langs_count=40&layout=compact&card_width=334" alt="william-riser" /></p>

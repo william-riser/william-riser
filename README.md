@@ -1,5 +1,19 @@
-<h1 align="center">Hi, I'm William Riser</h1>
-<h3 align="center">A computer science student at Northeastern University</h3>
-</p>
+# Hi there 👋, I'm William Riser!
 
-<p align="center"><img align="center" src="https://github-readme-stats-william-riser.vercel.app/api/top-langs/?username=william-riser&theme=react&hide_border=true&count_private=true&include_all_commits=true&langs_count=40&layout=compact&card_width=334" /></p>
+# About Me
+- CS @ Northeastern
+- 📍Boston & MS
+
+
+## 🛠️ Technologies & Tools
+
+- **Languages:** Java, JavaScript, HTML/CSS, Kotlin, SQL
+- **Frameworks/Libraries:** React, Node, Express, Tailwind
+- **Databases:** MongoDB, SQLite
+
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=william-riser&show_icons=true&theme=radical)
+
+## 📫 Let's Connect
+- Portfolio: [williamriser.com](https://williamriser.com/)
+- LinkedIn: [linkedin.com/in/william-riser]((https://www.linkedin.com/in/william-riser/))

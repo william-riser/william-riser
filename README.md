@@ -11,9 +11,8 @@
 - **Databases:** MongoDB, SQLite
 
 ## 🤝 Let's Connect
-- Portfolio: [williamriser.com](https://williamriser.com/)
 - LinkedIn: [linkedin.com/in/william-riser](https://www.linkedin.com/in/william-riser/)
-
+- Portfolio: [williamriser.com](https://williamriser.com/)
 
 ## 📈 GitHub Stats
 ![a](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=william-riser&theme=react)

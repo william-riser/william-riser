@@ -1,7 +1,7 @@
 # Hi there 👋, I'm William Riser!
 
 # About Me
-- CS + AI @ Northeastern
+- CS @ Northeastern w/ concentration in AI
 - 📍Boston & MS
 
 ## 🛠️ Technologies & Tools

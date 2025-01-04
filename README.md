@@ -6,7 +6,7 @@
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Java, JavaScript, HTML/CSS, Kotlin, SQL
+- **Languages:** Java, JavaScript, Python, HTML/CSS, Kotlin, SQL
 - **Frameworks/Libraries:** React, Node, Express, Tailwind
 - **Databases:** MongoDB, SQLite
 

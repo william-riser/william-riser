@@ -8,7 +8,7 @@
 
 - **Languages:** Java, JavaScript, Python, HTML/CSS, Kotlin, SQL
 - **Frameworks/Libraries:** React, Node, Express, Tailwind
-- **Databases:** MongoDB, SQLite
+- **Databases:** MongoDB, SQLite, Redis
 
 ## 🤝 Let's Connect
 - LinkedIn: [linkedin.com/in/william-riser](https://www.linkedin.com/in/william-riser/)

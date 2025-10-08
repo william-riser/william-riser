@@ -1,4 +1,4 @@
-# Hi there, I'm William!
+# Hi there, I'm Will!
 
 
 📚 CS with concentration in AI at Northeastern University

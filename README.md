@@ -1,13 +1,13 @@
 # Hi there, I'm Will!
 
 
-📚 CS with concentration in AI at Northeastern University
+CS @ Northeastern
 
-📍Boston, MA & Oxford, MS
+Boston, MA & Oxford, MS
 
-Connect with me! [linkedin.com/in/william-riser](https://www.linkedin.com/in/william-riser/)
+Connect with me: [linkedin.com/in/william-riser](https://www.linkedin.com/in/william-riser/)
 
-Check out my [portfolio website](https://williamriser.com/)
+Check out my [website](https://williamriser.com/)
 
 
 <!--- ![a](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=william-riser&theme=react) --->

@@ -1,4 +1,4 @@
-# Hi there, I'm Will!
+#Will Riser
 
 
 CS @ Northeastern
